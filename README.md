@@ -58,7 +58,8 @@ git remote add upstream https://github.com/Greenstand/treetracker-admin-client
 
 ### Step 4: Get configuration files
 
-_Only required if you are also developing and running the backend/API locally_
+
+> _Only required if you are also developing and running the backend/API locally_
 
 1. Add a `.env.local` file in the root directory containing the following line:
 
