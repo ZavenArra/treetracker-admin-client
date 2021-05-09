@@ -60,12 +60,10 @@ git remote add upstream https://github.com/Greenstand/treetracker-admin-client
 
 
 > _Only required if you are also developing and running the backend/API locally_
+>
+> 1. Add a `.env.local` file in the root directory containing the following line:
 
-1. Add a `.env.local` file in the root directory containing the following line:
-
-```
-REACT_APP_API_ROOT=http://localhost:3000
-```
+> REACT_APP_API_ROOT=http://localhost:3000
 
 ### Step 5: Install npm dependencies
 
